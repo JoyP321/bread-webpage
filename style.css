@@ -1,6 +1,7 @@
 body{
     background-color: #ffe8ad;
-    color: #1c1501;
+    color: black;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 h1{
 	font-size: 50px;
@@ -33,6 +34,7 @@ img{
 	padding:5%;
 }
 
-li{
-	font-size: 20px;	
+a{
+	font-size: 30px;
+	color: black;
 }
