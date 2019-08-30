@@ -1,5 +1,5 @@
 body{
-    background-color: #ffe8ad;
+    background-color: #fffaf2;
     color: black;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
@@ -29,7 +29,7 @@ th, td{
 	padding: 15px;
 }
 
-img{
+#mainImage{
 	width:90%;
 	padding:5%;
 }
